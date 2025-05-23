@@ -9,5 +9,3 @@ Se nessun linguaggio è selezionato, la card del dettaglio mostra “nessun ling
 Dare un colore diverso al bottone per cui il linguaggio è attualmente selezionato.
 Scomporre la card dei dettagli in un componente a parte che mantenga le sue funzionalità
 Scomporre i buttons in componenti a parte che mantengono tutte le funzionaliltà
-
-<!-- 42.12 item 01:07  -->
