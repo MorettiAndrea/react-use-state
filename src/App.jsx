@@ -1,5 +1,5 @@
 // layout
-import ButtonsLayout from "./components/layout/Main";
+import ButtonsLayout from "./components/layout/Buttons-layout";
 
 // data
 import languages from "./components/data/languages";

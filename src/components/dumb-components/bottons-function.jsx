@@ -1,7 +1,9 @@
-import { useState } from "react";
+export default function ButtonFunction({ language, ifClicked, isSelected }) {
+  const buttonClass = `custom-button  ${isSelected ? "selected" : ""}`;
 
-export default function ButtonFunction() {
-  return;
+  return (
+    <button className={buttonClass} onClick={() => ifClicked(language)}>
+      {language.title}
+    </button>
+  );
 }
-
-// riguardare da 42:00
